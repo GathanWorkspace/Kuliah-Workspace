@@ -1,0 +1,6 @@
+{
+  "name": "AI Productivity & Academic Mentor",
+  "description": "A supportive AI-driven productivity dashboard that helps university students structure complex goals (reverse-engineered from syllabi), optimize schedule-conflict resolutions, and combat procrastination with proactive, gentle mentor check-ins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
